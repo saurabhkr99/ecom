@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/saurabhkr99/ecom/static/css/main.f1d254e7.chunk.css",
+    "main.js": "/saurabhkr99/ecom/static/js/main.19d5b171.chunk.js",
+    "main.js.map": "/saurabhkr99/ecom/static/js/main.19d5b171.chunk.js.map",
+    "runtime-main.js": "/saurabhkr99/ecom/static/js/runtime-main.eefb7800.js",
+    "runtime-main.js.map": "/saurabhkr99/ecom/static/js/runtime-main.eefb7800.js.map",
+    "static/js/2.4859d2e8.chunk.js": "/saurabhkr99/ecom/static/js/2.4859d2e8.chunk.js",
+    "static/js/2.4859d2e8.chunk.js.map": "/saurabhkr99/ecom/static/js/2.4859d2e8.chunk.js.map",
+    "index.html": "/saurabhkr99/ecom/index.html",
+    "static/css/main.f1d254e7.chunk.css.map": "/saurabhkr99/ecom/static/css/main.f1d254e7.chunk.css.map",
+    "static/js/2.4859d2e8.chunk.js.LICENSE.txt": "/saurabhkr99/ecom/static/js/2.4859d2e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eefb7800.js",
+    "static/js/2.4859d2e8.chunk.js",
+    "static/css/main.f1d254e7.chunk.css",
+    "static/js/main.19d5b171.chunk.js"
+  ]
+}
